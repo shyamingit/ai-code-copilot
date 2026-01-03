@@ -36,7 +36,7 @@ Strict grounding is enforced to reduce hallucinations.
 
 ## 🏗 Architecture
 
-![AI Code Copilot Architecture](docs/architecture.png)
+![AI Code Copilot Architecture](docs/Architecture.png)
 
 1. Codebase scanning and chunking
 2. Embedding generation using SentenceTransformers
