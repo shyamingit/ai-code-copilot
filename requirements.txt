@@ -1,7 +1,7 @@
-fastapi
+fastapi==0.1xx
 uvicorn
 pydantic
-sentence-transformers
+sentence-transformers==2.x
 faiss-cpu
 python-multipart
 tqdm
