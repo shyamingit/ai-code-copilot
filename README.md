@@ -37,7 +37,7 @@ Strict grounding is enforced to reduce hallucinations.
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ![AI Code Copilot Architecture](docs/Architecture.png)
 
@@ -52,7 +52,7 @@ Strict grounding is enforced to reduce hallucinations.
 
 ---
 
-## 🖥 Demo UI
+##  Demo UI
 
 A lightweight Streamlit UI is included for interactive demos.
 
@@ -177,7 +177,7 @@ streamlit run ui.py
 
 ---
 
-## 📄 License
+##  License
 
 MIT License
 
